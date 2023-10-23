@@ -1,0 +1,11 @@
+Image,Noise Ratio,Before PSNR,Adaptive Median Filter PSNR
+baboon.bmp,0.1,15.7,20.7
+baboon.bmp,0.3,10.8,19.6
+baboon.bmp,0.5,8.6,18.4
+baboon.bmp,0.7,7.1,17.2
+baboon.bmp,0.9,6.0,13.0
+peppers.bmp,0.1,15.4,28.5
+peppers.bmp,0.3,10.6,25.2
+peppers.bmp,0.5,8.3,22.1
+peppers.bmp,0.7,6.9,19.9
+peppers.bmp,0.9,5.8,13.1

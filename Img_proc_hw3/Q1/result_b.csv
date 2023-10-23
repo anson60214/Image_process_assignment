@@ -1,0 +1,11 @@
+Image,Noise Ratio,Before PSNR,Mean Filter PSNR
+baboon.bmp,0.1,15.5,14.2
+baboon.bmp,0.3,10.8,10.3
+baboon.bmp,0.5,8.6,8.3
+baboon.bmp,0.7,7.1,7.0
+baboon.bmp,0.9,6.0,6.0
+peppers.bmp,0.1,15.3,14.8
+peppers.bmp,0.3,10.6,10.3
+peppers.bmp,0.5,8.4,8.1
+peppers.bmp,0.7,6.9,6.7
+peppers.bmp,0.9,5.8,5.8
